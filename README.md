@@ -1,2 +1,5 @@
-# Project - Analyzing Electric Vehicle Count and Carbon Emissions*
+# Project - *Analyzing Electric Vehicle Count and Carbon Emissions*
 This project attempts to determine if there lies a possible relationship between a location's Electric Vehicle(EV) count and its CO2 emissions numbers. We attempt to explore this possible relationship, while also considering possible confounding factors which may or may not have any influence. We use pandas to pull data into dataframes, seaborn for data visualization, and scikit-learn to generate regression models. Ultimately, we determine that there is no direct relationship between EV count and CO2 emissions, however, there is evidence which suggests that population is a confounding factor. In particular, as there is a higher population there will in turn be more electric vehicles and CO2 emissions.
+
+## How to View Project
+Simply click on FinalProjectGroup039-Wi22.ipynb in this Github repository and you will see the output of the project's Jupyter Notebook. Feel free to clone this repository and run the notebook locally as well!
